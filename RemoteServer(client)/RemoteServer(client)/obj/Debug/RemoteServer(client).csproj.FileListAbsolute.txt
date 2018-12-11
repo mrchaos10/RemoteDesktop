@@ -1,0 +1,11 @@
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\bin\Debug\RemoteServer(client).exe.config
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\bin\Debug\RemoteServer(client).exe
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\bin\Debug\RemoteServer(client).pdb
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer(client).csprojAssemblyReference.cache
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer_client_.Form1.resources
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer_client_.Form2.resources
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer_client_.Properties.Resources.resources
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer(client).csproj.GenerateResource.cache
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer(client).csproj.CoreCompileInputs.cache
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer(client).exe
+C:\Users\SRIRAM\source\repos\RemoteServer(client)\RemoteServer(client)\obj\Debug\RemoteServer(client).pdb
